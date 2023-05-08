@@ -1,3 +1,3 @@
-# Estimating metallicity for RR Lyrae stars:
+# Estimating metallicity for RR Lyrae stars with the new Gaia data release:
 ![Test Image 8](GAIA.jpeg)
 
