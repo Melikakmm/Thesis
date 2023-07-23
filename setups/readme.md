@@ -41,3 +41,20 @@ python -m ipykernel install --user --name=<your_environment_name> --display-name
 
 ```
 Replace <your_environment_name> with the name of your Python environment. The --display-name option allows you to specify the name that will appear in Jupyter Notebook when you choose this kernel.
+
+
+
+
+
+
+
+# Libraries we need :
+
+
+- tensorflow 2.5.0
+- numpy 1.19.5
+- pandas 1.3.0
+- joblib 1.0.1
+- scipy 1.6.3
+
+
