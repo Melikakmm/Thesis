@@ -50,7 +50,7 @@ Replace <your_environment_name> with the name of your Python environment. The --
 
 # Libraries we need :
 
-
+- Python 3.8.10
 - tensorflow 2.5.0
 - numpy 1.19.5
 - pandas 1.3.0
