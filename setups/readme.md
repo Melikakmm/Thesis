@@ -56,5 +56,42 @@ Replace <your_environment_name> with the name of your Python environment. The --
 - pandas 1.3.0
 - joblib 1.0.1
 - scipy 1.6.3
+- matplotlib
+- sklearn
 
+
+# I have created a virtual environment in order to meet all the requirements in a single enviroment:
+
+
+in the set_up file we had the dependecies needed, now we can create a virtual environment:
+```bash
+python3 -m pip install -r /Users/melikakeshavarz/Desktop/set_up.txt
+```
+
+---
+
+# working with python environments: 
+
+1. to create a python environment:
+```bash
+python3 -m venv ~/venv-melika
+```
+
+2. to activate the environment:
+
+```bash
+source ~/venv-melika/bin/activate
+```
+
+3. to see which version and where scikit-learn is installed for example:
+
+```bash
+python -m pip show scikit-learn
+```
+
+4. to see all packages installed in the active virtualenv
+
+```bash
+python -m pip freeze 
+```
 
